@@ -17,7 +17,7 @@
 
 /* General */
 body {
-    font-family: 'Montserrat', Courier, monospace;
+    font-family: 'Segoe UI';
     text-decoration: none;
     overflow-x: hidden;
 }
@@ -42,13 +42,13 @@ body {
 .wide-box {
     width: 100%;
     height: auto;
-    background: linear-gradient(#708CA8, #5d7994);
+    background: #000000;
     padding: 2.5vw 5vw;
     color: #ffffff;
     text-align: center;
 }
 .wide-box-seperator {
-    background-color: #ffffff;
+    background-color: #000000;
     opacity: .75;
     height: 2px;
     width: 50vw;
@@ -57,7 +57,7 @@ body {
 
 /* Navbar */
 .nav {
-    background: linear-gradient(to bottom, #708CA8, #5d7994);
+    background: linear-gradient(to bottom, #ffffff, #000000);
     background-repeat: no-repeat;
     display: flex;
     width: 100%;
@@ -77,7 +77,7 @@ body {
 .nav button a {
     color: #ffffff;
     text-decoration: none;
-    font-family: 'Montserrat', Courier, monospace;
+    font-family: 'Seoge UI';
     font-weight: bold;
 }
 @media screen and (max-width: 800px) {
