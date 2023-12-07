@@ -57,7 +57,7 @@ body {
 
 /* Navbar */
 .nav {
-    background: linear-gradient(to bottom, #ffffff, #000000);
+    background: #000000;
     background-repeat: no-repeat;
     display: flex;
     width: 100%;
