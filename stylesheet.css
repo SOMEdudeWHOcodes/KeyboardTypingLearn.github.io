@@ -71,14 +71,14 @@ body {
     padding: 0.5rem 1rem;
     margin: 1vw;
     border-style: none;
-    background-color: transparent;
+    background-color: black;
     font-size: 2.5vh;
 }
 .nav button a {
     color: #ffffff;
     text-decoration: none;
     font-family: 'monospace';
-    font-weight: bold;
+    font-weight: regular;
 }
 @media screen and (max-width: 800px) {
     .nav {
@@ -138,7 +138,7 @@ body {
     padding: 5px 10px;
     color: black;
     border: 1px solid black;
-    border-radius: 100px;
+    border-radius: 30px;
 }
 .footer-link a:hover {
     border-color: #ffffff;
