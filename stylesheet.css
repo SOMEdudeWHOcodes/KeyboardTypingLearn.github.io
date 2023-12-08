@@ -16,8 +16,19 @@
 */
 
 /* General */
+
+
+@font-face {
+    font-family: nothing;
+    src: url("../../KeyboardTypingLearn00001/nothing-font-5x7.ttf") format('truetype');
+    font-weight: regular;
+    font-style: normal;
+}
+div {
+	font-family: 'nothing';
+}
 body {
-    font-family: 'Monospace';
+    font-family: 'nothing';
     text-decoration: none;
     overflow-x: hidden;
 }
